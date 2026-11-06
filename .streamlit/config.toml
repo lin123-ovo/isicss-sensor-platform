@@ -1,0 +1,27 @@
+[theme]
+base = "light"
+font = "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+baseRadius = "medium"
+buttonRadius = "medium"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#0f9f9a"
+backgroundColor = "#f7fafb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#13252b"
+borderColor = "#dce8eb"
+
+[theme.light.sidebar]
+backgroundColor = "#eef6f7"
+
+[theme.dark]
+primaryColor = "#35c8bd"
+backgroundColor = "#0b1519"
+secondaryBackgroundColor = "#122126"
+textColor = "#e6f3f4"
+borderColor = "#26434a"
+
+[theme.dark.sidebar]
+backgroundColor = "#0d1b20"
